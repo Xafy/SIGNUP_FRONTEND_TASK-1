@@ -41,12 +41,12 @@ export class SignupComponent implements OnInit {
                   this.signedUp = true
                 },
                 error: err => {
+                  this.signedUp = false;
                   this.errorMessage = err.error.message;
                   console.log(this.errorMessage);
                 }
               }
             )
-      this.signedUp = (user != null);
     });
   }
 
