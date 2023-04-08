@@ -5,7 +5,6 @@ import { take } from "rxjs";
 declare var google: any;
 
 @Directive({
-    // eslint-disable-next-line @angular-eslint/directive-selector
     selector: 'google-signin-button'
 })
 export class GoogleSigninButtonDirective implements OnInit {
