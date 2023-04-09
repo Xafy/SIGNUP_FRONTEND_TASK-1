@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 # start the backend server 
 
-server code repo : https://github.com/Xafy/SIGNUP_BACKEND_TASK
+server code repo : https://github.com/Xafy/Grid_Backend_api
 - modify your database credentials at the config file
 - run "npm install && npm install"
 
