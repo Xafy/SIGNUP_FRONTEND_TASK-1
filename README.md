@@ -6,7 +6,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 server code repo : https://github.com/Xafy/Grid_Backend_api
 - modify your database credentials at the config file
-- run "npm install && npm install"
+- run "npm install"
+- run "npm start"
 
 ## start the client & Run these commands : 
 
