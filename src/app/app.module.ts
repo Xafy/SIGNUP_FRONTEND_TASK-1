@@ -22,7 +22,6 @@ import { ValidateEqualModule } from 'ng-validate-equal';
     AppComponent,
     SignupComponent,
     GoogleSigninButtonDirective,
-
   ],
   imports: [
     BrowserModule,
